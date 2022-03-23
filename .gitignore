@@ -2,5 +2,5 @@
 *.iml
 out
 *.xml
-secret.txt
+src/chapter_1/secret.txt
 fun.txt
